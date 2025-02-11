@@ -1,11 +1,19 @@
-# Obsidian Notes
+# Hi  There
 
-Publish your public notes with MkDocs
+这是一个关于指标体系的试验性的站点，使用Obsidian和Pages部署。
 
-## Hello World!
+## Usage
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+1. 查找指标
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+左侧的目录中包含[[业务指标目录]]，在那里寻找需要的指标。
+或者在右上角的搜索框中键入关键字查找。
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+2. 阅读指标
+
+指标详情页面记录了该指标的业务定义，及其所支持的统计周期，部分重要的指标还附有关联的数据表或者是报表，可以通过链接查询该指标。
+
+## Limitation
+
+该站点仅是一个试验性站点，初衷是为卡业务建立一个统一的指标索引，以便集中的查找、访问指标，但受限于当前人力，其内容并不完善，如果有一些建议或者反馈，可以直接Lark联系我。
+
