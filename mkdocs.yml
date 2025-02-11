@@ -1,7 +1,9 @@
-site_name: ID Card Metrics
+site_name: Card Metrics
 
 theme:
     name: 'material'
+    features:
+        - navigation.expand
     palette:
 
     # Light mode
