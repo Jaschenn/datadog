@@ -5,7 +5,6 @@ theme:
     features:
         # - navigation.expand
         - navigation.tabs
-        - navigation.tabs.sticky
         - navigation.sections
         - navigation.path
     palette:
