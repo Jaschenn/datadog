@@ -3,7 +3,7 @@ site_name: Card Metrics
 theme:
     name: 'material'
     features:
-        # - navigation.expand
+        - navigation.expand
         - navigation.tabs
         - navigation.sections
         - navigation.path
