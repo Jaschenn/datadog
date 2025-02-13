@@ -19,4 +19,4 @@
 
 * 
 ### 关联报表
-* 
+* https://tableau.atomecorp.com/#/site/AtomeCardIndonesia/views/Overview_17392591034180/Overview?:iid=1
