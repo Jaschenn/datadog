@@ -12,7 +12,7 @@
 * [[Adjusted AF Approved]]
 ### 关联技术定义
 
-* adjusted_af_approve
+* adjusted_af_approved
 ### 关联数据表
 
 * 
