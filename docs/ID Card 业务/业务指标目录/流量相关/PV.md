@@ -20,4 +20,4 @@
 
 * 
 ### 关联报表
-* https://tableau.atomecorp.com/#/site/AtomeCardIndonesia/views/PagesPVUV/PagesPVUV?:iid=1
+* 

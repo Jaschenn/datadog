@@ -19,4 +19,4 @@
 
 * **dws_crd_trx_va_transaction_auth_approved_users_1d_di** **dws_crd_trx_va_transaction_auth_approved_users_td_di**
 ### 关联报表
-* https://tableau.atomecorp.com/#/site/AtomeCardIndonesia/views/Auth_17364108144480/Overview?:iid=1
+* 
