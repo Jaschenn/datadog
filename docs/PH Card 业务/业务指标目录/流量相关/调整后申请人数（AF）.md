@@ -12,7 +12,7 @@
 * [[Adjusted AF Apply]]
 ### 关联技术定义
 
-* adjusted_af_apply
+* adjusted_af_credit_application_users
 ### 关联数据表
 
 * 

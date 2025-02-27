@@ -12,7 +12,7 @@
 * [[Adjusted AF Approved]]
 ### 关联技术定义
 
-* adjusted_af_approved
+* adjusted_af_credit_application_approved_users
 ### 关联数据表
 
 * 
